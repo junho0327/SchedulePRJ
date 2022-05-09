@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SchedulePrj:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SchedulePrj</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="2021_EmbededdPrj_GAS_v1.0-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SchedulePrj:war exploded" />
+    </root>
+  </artifact>
+</component>
